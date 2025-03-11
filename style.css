@@ -1,0 +1,16 @@
+.header {
+    background: #151515 url(images/Background1.jpg) no-repeat center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+/* customized class */
+.my-text-color {
+    color: #9c0444 !important;
+}
+.progress{
+   color:rgb(239, 229, 117)
+}
+.row justify-content-center{
+    display: flex;
+}
